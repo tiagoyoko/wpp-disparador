@@ -34,8 +34,8 @@ WhatsApp Disparador é uma solução SaaS 100% self-service que permite a pequen
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/wpp_disparador.git
-   cd wpp_disparador
+   git clone https://github.com/tiagoyoko/wpp-disparador.git
+   cd wpp-disparador
    ```
 
 2. Instale as dependências:
@@ -114,4 +114,20 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Contato
 
-Para dúvidas ou suporte, entre em contato através de [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
+Para dúvidas ou suporte, entre em contato através de [tiagoyoko@users.noreply.github.com](mailto:tiagoyoko@users.noreply.github.com).
+
+## Status do Projeto
+
+🚧 **Em Desenvolvimento Ativo** - MVP em fase de implementação
+
+### Próximas Funcionalidades
+- [ ] Sistema de templates de mensagens
+- [ ] Integração com CRMs populares
+- [ ] API pública para integrações
+- [ ] Dashboard avançado com métricas
+- [ ] Sistema de webhooks
+
+### Roadmap
+- **Q1 2025**: MVP completo com funcionalidades básicas
+- **Q2 2025**: Recursos avançados e integrações
+- **Q3 2025**: Expansão para outros canais de comunicação
